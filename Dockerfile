@@ -1,4 +1,4 @@
-FROM devilbox/php-fpm-8.0:latest
+FROM devilbox/php-fpm-8.1:latest
 
 RUN curl -sS https://getcomposer.org/installer | php -- --install-dir=/usr/local/bin --filename=composer
 
