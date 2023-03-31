@@ -1,0 +1,6 @@
+steps:
+- docker-compose up 
+- docker exec -it app bash
+- npm run dev 
+- visit localhost:8080/show (exam)
+- visit localhost:8080/register (authentication)

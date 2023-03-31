@@ -26,5 +26,10 @@
         "tailwindcss": "^3.1.0",
         "vue": "^3.2.31",
         "vue-loader": "^17.0.0"
+    },
+    "dependencies": {
+        "moment": "^2.29.4",
+        "vue-moment": "^4.1.0",
+        "vue-pagination-2": "^3.1.0"
     }
 }
